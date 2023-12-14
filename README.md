@@ -1,0 +1,1 @@
+El servicio que permite consultar y registrar Entradas de blog fue realizado utilizando Firebase Cloud Functions para manejar los solicitudes, los datos son almacenados en Firestore relacionado al mismo proyecto
